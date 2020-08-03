@@ -95,7 +95,7 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
+#benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -126,17 +126,7 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+ .hero-content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
