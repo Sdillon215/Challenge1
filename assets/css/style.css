@@ -47,6 +47,7 @@ body {
 }
 /* end header style */
 
+/* a and p selector style */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -55,6 +56,7 @@ a {
 p {
     font-size: 16px;
 }
+/* end a and p selector style */
 
 /* hero style */
 .hero {
