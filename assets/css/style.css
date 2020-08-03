@@ -1,13 +1,18 @@
+/* general style */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+/* end general style */
 
+/* body background */
 body {
     background-color: #d9dcd6;
 }
+/* body background */
 
+/* header style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,6 +45,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* end header style */
 
 a {
     color: #ffffff;
@@ -50,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/* hero style */
 .hero {
     height: 800px;
     width: 100%;
@@ -67,7 +74,9 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* end hero style */
 
+/* body style */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -129,6 +138,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end body style */
+
+/* footer style */
 .footer {
     padding: 30px;
     clear: both;
@@ -139,3 +151,4 @@ p {
 .footer h3 {
     font-size: 20px;
 }
+/* end footer style */
